@@ -97,3 +97,5 @@ add = Button(text="Add", width=44, bg="#FF6D60", fg="#F5F5F5", command=save_deta
 add.grid(row=4, column=1, columnspan=2, pady=15, sticky="nsew")
 
 window.mainloop()
+
+print()
